@@ -18,3 +18,9 @@ La fila de espera se organiza mediante una cola de prioridad que considera el ni
 - `SistemaTurnos`: interfaz gráfica.
 - `SistemaTurnos.Core`: lógica del sistema, estructuras de datos y acceso a la base de datos.
 - `SistemaTurnos.Pruebas`: pruebas automatizadas.
+
+## Ejecución
+
+Abra `SistemaTurnos.slnx` en Visual Studio. En el Explorador de soluciones,
+haga clic derecho sobre `SistemaTurnos`, seleccione
+**Establecer como proyecto de inicio** y presione **F5**.
