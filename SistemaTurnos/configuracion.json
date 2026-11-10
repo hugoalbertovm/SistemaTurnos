@@ -1,0 +1,6 @@
+{
+    "CadenaConexion": "Server=localhost\\SQLEXPRESS;Database=SistemaTurnos;Trusted_Connection=True;TrustServerCertificate=True;Connect Timeout=10",
+
+    // Minutos que espera un paciente ausente antes de volver a la fila.
+    "MinutosGracia": 1
+}

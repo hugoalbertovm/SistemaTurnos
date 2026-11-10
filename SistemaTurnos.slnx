@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SistemaTurnos.Core/SistemaTurnos.Core.csproj" />
+  <Project Path="SistemaTurnos.Pruebas/SistemaTurnos.Pruebas.csproj" />
+  <Project Path="SistemaTurnos/SistemaTurnos.csproj" />
+</Solution>
